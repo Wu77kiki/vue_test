@@ -1,0 +1,25 @@
+2024-11-05 20:10:40.726 [info] 
+
+
+
+
+2024-11-05 20:10:40.735 [info] Extension host agent started.
+2024-11-05 20:10:40.782 [info] [<unknown>][7fd087f6][ExtensionHostConnection] New connection established.
+2024-11-05 20:10:40.793 [info] [<unknown>][930f2f40][ManagementConnection] New connection established.
+2024-11-05 20:10:41.023 [info] [<unknown>][7fd087f6][ExtensionHostConnection] <65542> Launched Extension Host Process.
+2024-11-05 20:10:42.337 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+2024-11-05 20:10:54.836 [info] [<unknown>][930f2f40][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 20:10:54.854 [info] [<unknown>][7fd087f6][ExtensionHostConnection] <65542> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 20:10:54.855 [info] Cancelling previous shutdown timeout
+2024-11-05 20:10:54.855 [info] Last EH closed, waiting before shutting down
+2024-11-05 20:11:03.265 [info] [<unknown>][17bff327][ManagementConnection] New connection established.
+2024-11-05 20:11:03.278 [info] [<unknown>][779561fb][ExtensionHostConnection] New connection established.
+2024-11-05 20:11:03.281 [info] [<unknown>][779561fb][ExtensionHostConnection] <65684> Launched Extension Host Process.
+2024-11-05 20:15:54.857 [info] New EH opened, aborting shutdown
+2024-11-05 20:15:54.859 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-11-05 20:39:02.194 [info] [<unknown>][17bff327][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 20:39:02.214 [info] [<unknown>][779561fb][ExtensionHostConnection] <65684> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 20:39:02.214 [info] Last EH closed, waiting before shutting down
+2024-11-05 20:44:02.215 [info] Last EH closed, shutting down

@@ -1,0 +1,84 @@
+2024-11-05 13:57:24.246 [info] 
+
+
+
+
+2024-11-05 13:57:24.261 [info] Extension host agent started.
+2024-11-05 13:57:24.314 [info] [127.0.0.1][c9a57ec9][ManagementConnection] New connection established.
+2024-11-05 13:57:24.320 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-zh-hans /home/waq/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609
+2024-11-05 13:57:24.323 [info] [127.0.0.1][0b839bbb][ExtensionHostConnection] New connection established.
+2024-11-05 13:57:24.599 [info] [127.0.0.1][0b839bbb][ExtensionHostConnection] <44650> Launched Extension Host Process.
+2024-11-05 13:57:35.876 [info] [127.0.0.1][c9a57ec9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 13:57:35.877 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-11-05 13:57:40.886 [info] [127.0.0.1][0b839bbb][ExtensionHostConnection] <44650> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 13:57:40.887 [info] Cancelling previous shutdown timeout
+2024-11-05 13:57:40.887 [info] Last EH closed, waiting before shutting down
+2024-11-05 13:57:43.796 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-11-05 13:57:43.796 [info] Cancelling previous shutdown timeout
+2024-11-05 13:57:43.878 [info] [127.0.0.1][3a72c091][ManagementConnection] New connection established.
+2024-11-05 13:57:43.902 [info] [127.0.0.1][3d6fb107][ExtensionHostConnection] New connection established.
+2024-11-05 13:57:43.907 [info] [127.0.0.1][3d6fb107][ExtensionHostConnection] <44807> Launched Extension Host Process.
+2024-11-05 13:57:46.190 [error] CodeExpectedError: Could not find pty on pty host
+    at $.P (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:27:32310)
+    at $.updateTitle (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:27:27490)
+    at T.<computed> (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:27:22750)
+    at Object.call (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:17:4907)
+    at u.s (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at C.w (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at C.fire (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/platform/terminal/node/ptyHostMain.js:8:27561)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 14:02:43.798 [info] New EH opened, aborting shutdown
+2024-11-05 15:29:17.378 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2024-11-05 15:29:20.074 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2024-11-05 15:29:20.079 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2024-11-05 15:29:20.328 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2024-11-05 15:44:28.502 [info] [127.0.0.1][3a72c091][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 15:44:28.503 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2024-11-05 15:44:28.503 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2024-11-05 15:44:28.503 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2024-11-05 15:44:28.503 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2024-11-05 15:44:28.503 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2024-11-05 15:44:28.503 [error] Error: Throttler is disposed
+    at c.queue (/home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/waq/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2024-11-05 15:44:33.521 [info] [127.0.0.1][3d6fb107][ExtensionHostConnection] <44807> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 15:44:33.521 [info] Last EH closed, waiting before shutting down
+2024-11-05 15:49:33.521 [info] Last EH closed, shutting down

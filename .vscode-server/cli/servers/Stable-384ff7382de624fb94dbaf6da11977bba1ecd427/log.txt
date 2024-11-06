@@ -1,0 +1,24 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-1bee2d8e-0c41-4470-b20c-e2edc858df8a
+Extension host agent listening on /tmp/code-1bee2d8e-0c41-4470-b20c-e2edc858df8a
+
+[17:40:29] 
+
+
+
+
+[17:40:29] Extension host agent started.
+[17:40:29] [<unknown>][a096e4b9][ExtensionHostConnection] New connection established.
+[17:40:29] [<unknown>][f2bde689][ManagementConnection] New connection established.
+[17:40:29] [<unknown>][a096e4b9][ExtensionHostConnection] <73010> Launched Extension Host Process.
+[17:40:29] [<unknown>][a096e4b9][ExtensionHostConnection] <73010><stderr> Error reading NLS messages file /home/waq/.vscode-server/data/clp/992791cd017d0441f609c48108aa8c37.zh-cn/384ff7382de624fb94dbaf6da11977bba1ecd427/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/waq/.vscode-server/data/clp/992791cd017d0441f609c48108aa8c37.zh-cn/384ff7382de624fb94dbaf6da11977bba1ecd427/nls.messages.json'
+
+[17:40:30] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+New EH opened, aborting shutdown
+[17:45:29] New EH opened, aborting shutdown

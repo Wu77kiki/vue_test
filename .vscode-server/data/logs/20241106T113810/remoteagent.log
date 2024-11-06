@@ -1,0 +1,16 @@
+2024-11-06 11:38:11.014 [info] 
+
+
+
+
+2024-11-06 11:38:11.022 [info] Extension host agent started.
+2024-11-06 11:38:11.078 [info] [<unknown>][38975023][ExtensionHostConnection] New connection established.
+2024-11-06 11:38:11.094 [info] [<unknown>][0d8ddf6a][ManagementConnection] New connection established.
+2024-11-06 11:38:11.321 [info] [<unknown>][38975023][ExtensionHostConnection] <70314> Launched Extension Host Process.
+2024-11-06 11:38:11.362 [info] [<unknown>][38975023][ExtensionHostConnection] <70314><stderr> Error reading NLS messages file /home/waq/.vscode-server/data/clp/992791cd017d0441f609c48108aa8c37.zh-cn/384ff7382de624fb94dbaf6da11977bba1ecd427/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/waq/.vscode-server/data/clp/992791cd017d0441f609c48108aa8c37.zh-cn/384ff7382de624fb94dbaf6da11977bba1ecd427/nls.messages.json'
+
+2024-11-06 11:38:23.319 [info] [<unknown>][0d8ddf6a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-06 11:38:23.337 [info] [<unknown>][38975023][ExtensionHostConnection] <70314> Extension Host Process exited with code: 0, signal: null.
+2024-11-06 11:38:23.337 [info] Cancelling previous shutdown timeout
+2024-11-06 11:38:23.337 [info] Last EH closed, waiting before shutting down
+2024-11-06 11:43:23.339 [info] Last EH closed, shutting down

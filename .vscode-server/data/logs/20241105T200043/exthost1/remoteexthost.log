@@ -1,0 +1,1391 @@
+2024-11-05 20:00:44.170 [info] Extension host with pid 64177 started
+2024-11-05 20:00:44.222 [info] Lock '/home/waq/.vscode-server/data/User/workspaceStorage/607d1f3123f8780b58e65bcfebd7a88d/vscode.lock': Lock acquired.
+2024-11-05 20:00:44.246 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-05 20:00:44.247 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-05 20:00:44.310 [error] No bundle location found for extension vscode.tunnel-forwarding
+2024-11-05 20:00:44.366 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-05 20:00:44.370 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-11-05 20:00:44.545 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-05 20:00:44.545 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-05 20:00:44.751 [info] Eager extensions activated
+2024-11-05 20:00:44.752 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 20:00:44.752 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 20:00:46.597 [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+2024-11-05 20:00:51.227 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:51.227 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:51.228 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:51.228 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:51.812 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:51.812 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:52.168 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:52.169 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:52.571 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:52.571 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:53.055 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:53.055 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:53.431 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:53.432 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:57.235 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:57.236 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:00:57.397 [error] [octref.vetur] provider FAILED
+2024-11-05 20:00:57.397 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:01.801 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:01.801 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:01.989 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:01.989 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:10.611 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:10.611 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:11.261 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:11.261 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:11.728 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:11.728 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:12.092 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:12.092 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:12.438 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:12.438 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:13.397 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:13.397 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:14.447 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:14.447 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:15.114 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:15.115 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:24.478 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:24.478 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:24.642 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:24.642 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:25.996 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:25.996 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:26.193 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:26.193 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:29.099 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:29.099 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:31.262 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:31.262 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:41.812 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:41.812 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:42.016 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:42.016 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:01:44.140 [error] [octref.vetur] provider FAILED
+2024-11-05 20:01:44.140 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:07.227 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:07.227 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:08.399 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:08.400 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:10.291 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:10.291 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:10.314 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:10.314 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:10.778 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:10.778 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:10.833 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:10.833 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:13.718 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:13.718 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:13.938 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:13.938 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:13.941 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:13.942 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:16.833 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:16.833 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:17.042 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:17.042 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:17.995 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:17.995 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:19.606 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:19.606 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:19.818 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:19.818 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:21.087 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:21.087 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:21.294 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:21.294 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:22.375 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:22.375 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:22.592 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:22.592 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:24.571 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:24.571 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:24.792 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:24.793 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:27.235 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:27.235 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:27.454 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:27.454 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:28.300 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:28.300 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:28.701 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:28.701 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:28.704 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:28.704 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:29.009 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:29.009 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:29.225 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:29.225 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:30.761 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:30.761 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:30.971 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:30.971 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:31.451 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:31.451 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:31.758 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:31.758 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:31.795 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:31.795 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:32.480 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:32.480 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:32.678 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:32.679 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:45.511 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:45.511 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:45.687 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:45.687 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:46.595 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:46.595 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:46.793 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:46.793 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:48.814 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:48.814 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:49.020 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:49.020 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:49.299 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:49.299 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:49.558 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:49.559 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:52.277 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:52.277 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:52.476 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:52.476 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:57.232 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:57.232 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:57.441 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:57.441 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:08:59.521 [error] [octref.vetur] provider FAILED
+2024-11-05 20:08:59.521 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:04.234 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:04.234 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:04.453 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:04.453 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:04.634 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:04.634 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:05.005 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:05.005 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:05.310 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:05.310 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:05.569 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:05.569 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:05.917 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:05.918 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:07.839 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:07.839 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:08.135 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:08.135 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:08.138 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:08.138 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:08.441 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:08.441 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:08.657 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:08.657 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:10.332 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:10.332 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:10.542 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:10.542 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:11.148 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:11.148 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:11.362 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:11.362 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:11.840 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:11.840 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:12.053 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:12.053 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:12.701 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:12.702 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:12.916 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:12.916 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:17.095 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:17.095 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:17.280 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:17.280 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:17.318 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:17.318 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:17.607 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:17.607 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:17.815 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:17.815 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:19.690 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:19.691 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:19.900 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:19.900 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:20.216 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:20.216 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:20.511 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:20.511 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:20.515 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:20.515 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:30.346 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:30.346 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:30.907 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:30.907 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:34.285 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:34.285 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:34.460 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:34.460 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:35.386 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:35.387 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:35.600 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:35.600 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:36.409 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:36.409 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:36.594 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:36.594 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:36.983 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:36.983 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:42.433 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:42.433 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:42.640 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:42.640 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:43.197 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:43.197 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:43.499 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:43.499 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:43.500 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:43.500 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:45.984 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:45.984 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:46.188 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:46.188 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:47.676 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:47.676 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:47.864 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:47.864 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:47.969 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:47.969 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:47.976 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:47.976 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:48.598 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:48.598 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:48.829 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:48.829 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:51.192 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:51.192 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:51.404 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:51.404 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:52.303 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:52.303 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:52.522 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:52.522 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:55.007 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:55.007 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:09:55.224 [error] [octref.vetur] provider FAILED
+2024-11-05 20:09:55.224 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:10.771 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:10.771 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:10.945 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:10.945 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:11.839 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:11.839 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:11.996 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:11.996 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:11.999 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:11.999 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:12.674 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:12.674 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:12.897 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:12.897 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:13.331 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:13.331 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:13.550 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:13.550 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:19.231 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:19.231 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:19.441 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:19.441 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:30.399 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:30.399 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:10:31.079 [error] [octref.vetur] provider FAILED
+2024-11-05 20:10:31.079 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:05.592 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:05.592 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:05.768 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:05.768 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:08.099 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:08.099 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:08.561 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:08.561 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:29.595 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:29.595 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:29.939 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:29.939 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:11:30.473 [error] [octref.vetur] provider FAILED
+2024-11-05 20:11:30.473 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:03.350 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-11-05 20:12:03.732 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:03.732 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:03.775 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:03.776 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:03.839 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:03.839 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:05.348 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:05.348 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:05.703 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:05.703 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:05.705 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:05.705 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:06.445 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:06.445 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:07.447 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:07.447 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:07.665 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:07.665 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:46.188 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:46.188 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:46.366 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:46.366 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:54.795 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:54.795 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:55.004 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:55.004 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:55.750 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:55.750 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:57.732 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:57.732 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:57.933 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:57.933 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:58.189 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:58.189 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:58.407 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:58.407 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:59.624 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:59.624 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:12:59.711 [error] [octref.vetur] provider FAILED
+2024-11-05 20:12:59.711 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:00.054 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:00.054 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:00.992 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:00.992 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:01.213 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:01.213 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:01.650 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:01.650 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:01.863 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:01.863 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:04.229 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:04.229 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:04.445 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:04.445 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:13.161 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:13.161 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:13.511 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:13.511 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:14.701 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:14.701 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:17.564 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:17.564 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:22.528 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:22.528 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:24.193 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:24.193 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:26.931 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:26.931 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:28.832 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:28.832 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:34.561 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:34.561 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:34.791 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:34.791 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:34.796 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:34.796 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:35.141 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:35.141 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:35.353 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:35.353 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:35.597 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:35.597 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:35.813 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:35.813 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:37.334 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:37.334 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:37.684 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:37.684 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:37.691 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:37.691 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:38.046 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:38.046 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:38.264 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:38.264 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:38.986 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:38.986 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:39.185 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:39.185 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:39.208 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:39.208 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:41.637 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:41.637 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:41.844 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:41.844 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:13:42.904 [error] [octref.vetur] provider FAILED
+2024-11-05 20:13:42.904 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:24.678 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:24.678 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:24.777 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:24.777 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:31.497 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:31.497 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:31.695 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:31.695 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:36.116 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:36.116 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:36.317 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:36.317 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:43.984 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:43.984 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:44.097 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:44.097 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:45.536 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:45.536 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:31:45.745 [error] [octref.vetur] provider FAILED
+2024-11-05 20:31:45.746 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:32:15.755 [error] [octref.vetur] provider FAILED
+2024-11-05 20:32:15.756 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:32:16.228 [error] [octref.vetur] provider FAILED
+2024-11-05 20:32:16.228 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:32:17.009 [error] [octref.vetur] provider FAILED
+2024-11-05 20:32:17.009 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:32:17.311 [error] [octref.vetur] provider FAILED
+2024-11-05 20:32:17.311 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:32:18.434 [error] [octref.vetur] provider FAILED
+2024-11-05 20:32:18.435 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 20:32:25.919 [error] [octref.vetur] provider FAILED
+2024-11-05 20:32:25.919 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 21:55:44.469 [error] [octref.vetur] provider FAILED
+2024-11-05 21:55:44.469 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 21:58:57.364 [error] [octref.vetur] provider FAILED
+2024-11-05 21:58:57.364 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 21:58:58.303 [error] [octref.vetur] provider FAILED
+2024-11-05 21:58:58.303 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 21:58:58.514 [error] [octref.vetur] provider FAILED
+2024-11-05 21:58:58.514 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 21:59:00.698 [error] [octref.vetur] provider FAILED
+2024-11-05 21:59:00.698 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 22:03:06.619 [error] [octref.vetur] provider FAILED
+2024-11-05 22:03:06.619 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 22:03:08.039 [error] [octref.vetur] provider FAILED
+2024-11-05 22:03:08.039 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-11-05 22:09:48.279 [info] Extension host terminating: received terminate message from renderer
+2024-11-05 22:09:48.280 [info] Lock '/home/waq/.vscode-server/data/User/workspaceStorage/607d1f3123f8780b58e65bcfebd7a88d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-11-05 22:09:53.291 [info] Extension host with pid 64177 exiting with code 0

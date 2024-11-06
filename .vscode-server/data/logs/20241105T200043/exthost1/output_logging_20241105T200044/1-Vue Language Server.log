@@ -1,0 +1,700 @@
+Vetur initialized
+[INFO ] Loaded bundled typescript@4.9.5.
+[INFO ] Loaded bundled prettier.
+[INFO ] Loaded bundled @starptech/prettyhtml.
+[INFO ] Loaded bundled prettier-eslint.
+[INFO ] Loaded bundled prettier-tslint.
+[INFO ] Loaded bundled stylus-supremacy.
+[INFO ] Loaded bundled @prettier/plugin-pug.
+DeprecationWarning: 'createIdentifier' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createImportClause' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createLiteral' has been deprecated since v4.0.0. Use `factory.createStringLiteral`, `factory.createStringLiteralFromNode`, `factory.createNumericLiteral`, `factory.createBigIntLiteral`, `factory.createTrue`, `factory.createFalse`, or the factory supplied by your transformation context instead.
+DeprecationWarning: 'createImportDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+DeprecationWarning: 'createCallExpression' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+[Error - 20:00:51] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:51] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:51] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:52] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:52] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:53] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:53] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:57] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:00:57] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:01] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:01] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:10] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:12] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:12] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:13] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:14] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:15] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:24] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:24] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:25] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:26] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:29] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:31] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:41] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:42] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:01:44] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:07] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:08] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:10] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:10] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:10] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:10] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:13] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:13] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:13] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:16] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:17] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:19] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:19] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:21] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:21] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:22] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:22] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:24] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:24] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:27] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:27] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:28] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:28] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:28] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:29] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:29] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:30] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:30] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:31] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:31] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:31] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:32] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:32] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:45] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:45] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:46] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:46] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:48] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:49] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:49] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:49] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:52] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:52] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:57] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:57] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:08:59] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:04] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:04] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:04] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:07] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:08] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:08] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:08] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:08] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:10] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:10] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:11] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:12] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:12] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:12] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:17] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:17] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:19] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:19] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:20] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:20] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:20] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:30] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:30] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:34] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:34] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:35] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:35] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:36] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:36] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:36] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:42] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:42] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:43] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:43] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:43] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:45] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:46] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:47] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:47] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:47] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:47] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:48] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:48] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:51] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:51] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:52] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:52] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:55] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:09:55] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:10] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:10] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:11] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:12] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:12] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:13] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:13] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:19] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:19] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:30] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:10:31] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:05] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:08] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:08] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:29] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:29] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:11:30] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:03] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:03] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:03] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:05] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:05] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:06] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:07] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:07] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:46] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:46] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:54] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:55] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:55] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:57] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:57] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:58] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:58] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:59] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:12:59] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:00] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:00] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:01] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:01] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:01] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:04] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:04] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:13] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:13] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:14] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:22] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:24] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:26] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:28] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:34] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:34] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:34] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:35] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:35] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:35] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:35] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:37] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:37] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:37] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:38] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:38] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:38] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:39] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:39] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:41] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:41] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:13:42] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:24] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:24] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:31] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:31] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:36] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:36] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:43] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:44] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:45] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:31:45] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:32:15] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:32:16] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:32:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:32:17] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:32:18] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 20:32:25] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 21:55:44] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 21:58:57] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 21:58:58] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 21:58:58] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 21:59:00] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 22:03:06] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 22:03:08] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 

@@ -1,0 +1,30 @@
+2024-11-06 15:27:28.912 [info] Extension host with pid 71669 started
+2024-11-06 15:27:28.976 [info] Lock '/home/waq/.vscode-server/data/User/workspaceStorage/f2c5e88cc6ff560520be7d8442405061/vscode.lock': Lock acquired.
+2024-11-06 15:27:29.212 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-06 15:27:29.213 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-06 15:27:29.213 [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+2024-11-06 15:27:29.213 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-06 15:27:29.866 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-06 15:27:29.867 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-06 15:27:30.266 [info] Eager extensions activated
+2024-11-06 15:27:30.266 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-06 15:27:30.267 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-06 15:27:31.259 [error] [octref.vetur] provider FAILED
+2024-11-06 15:27:31.259 [error] Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-11-06 15:27:31.276 [error] [octref.vetur] provider FAILED
+2024-11-06 15:27:31.276 [error] Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62416
+	at /home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:62710
+	at Immediate.<anonymous> (/home/waq/.vscode-server/extensions/octref.vetur-0.37.3/dist/vueMain.js:1:63075)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-11-06 15:27:56.309 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-06 15:28:01.544 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-06 15:28:01.545 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-06 15:28:01.545 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-06 16:22:55.959 [info] Extension host terminating: received terminate message from renderer
+2024-11-06 16:22:55.959 [info] Lock '/home/waq/.vscode-server/data/User/workspaceStorage/f2c5e88cc6ff560520be7d8442405061/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-11-06 16:22:55.983 [info] Extension host with pid 71669 exiting with code 0

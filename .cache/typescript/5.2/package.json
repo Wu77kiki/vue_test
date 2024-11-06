@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.693"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.20.5",
+    "@types/core-js": "^2.5.8"
+  }
+}

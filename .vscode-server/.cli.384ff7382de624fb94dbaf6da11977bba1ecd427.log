@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:43107
+[2024-11-06 17:40:29] info Disposed of connection to running server.
+looking for token 575ddabc-1de8-41c4-abff-7a029887f077, got Some("575ddabc-1de8-41c4-abff-7a029887f077")
+[2024-11-06 17:40:29] info Checking /home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/log.txt and /home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/pid.txt for a running server...
+[2024-11-06 17:40:29] info Starting server...
+[2024-11-06 17:40:29] info Server started

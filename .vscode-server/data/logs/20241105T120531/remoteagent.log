@@ -1,0 +1,192 @@
+2024-11-05 12:05:31.733 [info] 
+
+
+
+
+2024-11-05 12:05:31.741 [info] Extension host agent started.
+2024-11-05 12:05:31.777 [info] Started initializing default profile extensions in extensions installation folder. file:///home/waq/.vscode-server/extensions
+2024-11-05 12:05:31.818 [info] [<unknown>][9c8b667c][ManagementConnection] New connection established.
+2024-11-05 12:05:31.836 [info] [<unknown>][f6d6db2d][ExtensionHostConnection] New connection established.
+2024-11-05 12:05:31.889 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/waq/.vscode-server/extensions
+2024-11-05 12:05:31.911 [info] [<unknown>][f6d6db2d][ExtensionHostConnection] <30909> Launched Extension Host Process.
+2024-11-05 12:05:32.017 [info] Installing extensions...
+2024-11-05 12:05:32.809 [info] Installing extension 'ms-ceintl.vscode-language-pack-zh-hans'...
+2024-11-05 12:05:33.260 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+2024-11-05 12:05:33.766 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2024-11-05 12:05:33.776 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/waq/.vscode-server/extensions/extensions.json","external":"file:///home/waq/.vscode-server/extensions/extensions.json","path":"/home/waq/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-11-05 12:05:35.896 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-zh-hans: Success. Executed: true. Duration: 1592ms.
+2024-11-05 12:05:35.960 [info] Extracted extension to file:///home/waq/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609: ms-ceintl.vscode-language-pack-zh-hans
+2024-11-05 12:05:35.994 [info] Renamed to /home/waq/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609
+2024-11-05 12:05:36.029 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2024-11-05 12:05:36.077 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans file:///home/waq/.vscode-server/extensions/extensions.json
+2024-11-05 12:05:36.078 [info] Extension 'ms-ceintl.vscode-language-pack-zh-hans' v1.94.2024101609 was successfully installed.
+2024-11-05 12:05:39.654 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2024-11-05 12:05:39.686 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:15:33.676Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/waq/.vscode-server/extensions/extensions.json","external":"file:///home/waq/.vscode-server/extensions/extensions.json","path":"/home/waq/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-11-05 12:05:40.973 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-zh-hans: Success. Executed: true. Duration: 802ms.
+2024-11-05 12:05:41.022 [info] Extracted extension to file:///home/waq/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.95.2024103009: ms-ceintl.vscode-language-pack-zh-hans
+2024-11-05 12:05:41.053 [info] Renamed to /home/waq/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.95.2024103009
+2024-11-05 12:05:41.089 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hans-1.94.2024101609
+2024-11-05 12:05:41.090 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2024-11-05 12:05:41.146 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans file:///home/waq/.vscode-server/extensions/extensions.json
+2024-11-05 12:05:48.063 [info] [<unknown>][9c8b667c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 12:05:48.077 [info] [<unknown>][f6d6db2d][ExtensionHostConnection] <30909> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 12:05:48.078 [info] Cancelling previous shutdown timeout
+2024-11-05 12:05:48.078 [info] Last EH closed, waiting before shutting down
+2024-11-05 12:05:55.235 [info] [<unknown>][594e151c][ExtensionHostConnection] New connection established.
+2024-11-05 12:05:55.238 [info] [<unknown>][594e151c][ExtensionHostConnection] <31079> Launched Extension Host Process.
+2024-11-05 12:05:55.263 [info] [<unknown>][ae25eb9a][ManagementConnection] New connection established.
+2024-11-05 12:10:48.080 [info] New EH opened, aborting shutdown
+2024-11-05 12:10:48.082 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-11-05 13:05:50.443 [error] [network] #14: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+2024-11-05 13:08:19.778 [info] Getting Manifest... octref.vetur
+2024-11-05 13:08:19.843 [info] Installing extension: octref.vetur {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/waq/.vscode-server/extensions/extensions.json","external":"file:///home/waq/.vscode-server/extensions/extensions.json","path":"/home/waq/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-11-05 13:08:25.053 [info] Extension signature verification result for octref.vetur: Success. Executed: true. Duration: 1612ms.
+2024-11-05 13:08:26.740 [info] Extracted extension to file:///home/waq/.vscode-server/extensions/octref.vetur-0.37.3: octref.vetur
+2024-11-05 13:08:26.820 [info] Renamed to /home/waq/.vscode-server/extensions/octref.vetur-0.37.3
+2024-11-05 13:08:26.865 [info] Extension installed successfully: octref.vetur file:///home/waq/.vscode-server/extensions/extensions.json
+2024-11-05 14:13:44.866 [info] [<unknown>][ae25eb9a][ManagementConnection] The client has reconnected.
+2024-11-05 14:13:45.905 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateIcon (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6462)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 14:13:45.906 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 14:13:45.906 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 14:13:45.907 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 14:14:07.796 [info] [<unknown>][594e151c][ExtensionHostConnection] The client has reconnected.
+2024-11-05 14:20:25.371 [info] [<unknown>][ae25eb9a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 14:20:25.432 [info] [<unknown>][594e151c][ExtensionHostConnection] <31079> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 14:20:25.432 [info] Last EH closed, waiting before shutting down
+2024-11-05 14:20:49.224 [info] [<unknown>][ad1cef99][ManagementConnection] New connection established.
+2024-11-05 14:20:49.237 [info] [<unknown>][41b8c3e7][ExtensionHostConnection] New connection established.
+2024-11-05 14:20:49.241 [info] [<unknown>][41b8c3e7][ExtensionHostConnection] <46698> Launched Extension Host Process.
+2024-11-05 14:20:49.599 [error] [network] #20: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+2024-11-05 14:25:25.432 [info] New EH opened, aborting shutdown
+2024-11-05 14:52:45.402 [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-05 15:13:15.186 [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-05 15:19:24.195 [error] Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-05 15:25:30.965 [info] [<unknown>][ad1cef99][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 15:25:31.020 [info] [<unknown>][41b8c3e7][ExtensionHostConnection] <46698> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 15:25:31.020 [info] Last EH closed, waiting before shutting down
+2024-11-05 15:29:19.367 [info] [<unknown>][6a9a8087][ManagementConnection] New connection established.
+2024-11-05 15:29:19.383 [info] [<unknown>][4e8db7ac][ExtensionHostConnection] New connection established.
+2024-11-05 15:29:19.386 [info] [<unknown>][4e8db7ac][ExtensionHostConnection] <57316> Launched Extension Host Process.
+2024-11-05 15:30:31.020 [info] New EH opened, aborting shutdown
+2024-11-05 17:43:36.628 [info] [<unknown>][6a9a8087][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-05 18:04:31.075 [info] [<unknown>][6a9a8087][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-05 18:04:31.075 [info] [<unknown>][6a9a8087][ManagementConnection] The client has reconnected.
+2024-11-05 18:04:32.095 [error] CodeExpectedError: Could not find pty 2 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateIcon (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6462)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 18:04:32.097 [error] CodeExpectedError: Could not find pty 2 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 18:04:32.097 [error] CodeExpectedError: Could not find pty 2 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 18:04:32.097 [error] CodeExpectedError: Could not find pty 2 on pty host
+    at M.U (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/waq/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-05 18:05:00.039 [info] [<unknown>][4e8db7ac][ExtensionHostConnection] The client has reconnected.
+2024-11-05 20:01:38.823 [error] [network] #22: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+2024-11-05 20:01:41.440 [info] [<unknown>][6a9a8087][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-05 20:01:41.514 [info] [<unknown>][4e8db7ac][ExtensionHostConnection] <57316> Extension Host Process exited with code: 0, signal: null.
+2024-11-05 20:01:41.514 [info] Last EH closed, waiting before shutting down
+2024-11-05 20:06:41.513 [info] Last EH closed, shutting down
